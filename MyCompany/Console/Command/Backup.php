@@ -13,7 +13,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 
-use Joomlatools\Console\Command\SiteAbstract;
+use Joomlatools\Console\Command\Site\AbstractSite;
 
 /**
  * Backup plugin class.
@@ -21,7 +21,7 @@ use Joomlatools\Console\Command\SiteAbstract;
  * @author  Steven Rombauts <https://github.com/stevenrombauts>
  * @package Joomlatools\Console
  */
-class Backup extends SiteAbstract
+class Backup extends AbstractSite
 {
     protected $backup_directory;
 
