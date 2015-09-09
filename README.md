@@ -11,7 +11,7 @@ Installation
 
 1.  Run the following command
 
- `$ joomla plugin:install joomlatools/joomla-console-backup-plugin`
+ `$ joomla plugin:install joomlatools/joomla-console-backup`
 
 1. Verify that the plugin is available:
 
