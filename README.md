@@ -43,7 +43,7 @@ The `joomlatools/joomla-console-backup` plugin is an open source, community-driv
 
 ## Contributors
 
-See the list of [contributors](https://github.com/joomlatools/joomla-console/contributors).
+See the list of [contributors](https://github.com/joomlatools/joomla-console-backup/contributors).
 
 ## License 
 
