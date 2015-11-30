@@ -1,7 +1,7 @@
 Joomlatools Console - Example Plugin
 ====================================
 
-This is an example plugin for use with the [Joomlatools Console](https://github.com/joomlatools/joomla-console).
+This is an example plugin for use with the [Joomlatools Console](https://github.com/joomlatools/joomlatools-console).
 
 The plugin adds a `site:backup` command which you can use to
 quickly create a database dump and tar file of any installed Joomla site.
@@ -11,7 +11,7 @@ Installation
 
 1.  Run the following command
 
- `$ joomla plugin:install joomlatools/joomla-console-backup`
+ `$ joomla plugin:install joomlatools/console-backup`
 
 1. Verify that the plugin is available:
 
@@ -35,19 +35,19 @@ It's very easy to add custom commands to the tool. We recommended installing thi
 ## Requirements
 
 * Composer
-* [Joomla Console](https://github.com/joomlatools/joomla-console) >= 1.3
+* [Joomlatools Console](https://github.com/joomlatools/joomlatools-console) >= 1.3
 
 ## Contributing
 
-The `joomlatools/joomla-console-backup` plugin is an open source, community-driven project. Contributions are welcome from everyone. We have [contributing guidelines](CONTRIBUTING.md) to help you get started.
+The `joomlatools/console-backup` plugin is an open source, community-driven project. Contributions are welcome from everyone. We have [contributing guidelines](CONTRIBUTING.md) to help you get started.
 
 ## Contributors
 
-See the list of [contributors](https://github.com/joomlatools/joomla-console-backup/contributors).
+See the list of [contributors](https://github.com/joomlatools/joomlatools-console-backup/contributors).
 
 ## License 
 
-The `joomlatools/joomla-console-backup` plugin is free and open-source software licensed under the [MPLv2 license](LICENSE.txt).
+This plugin is free and open-source software licensed under the [MPLv2 license](LICENSE.txt).
 
 ## Community
 
