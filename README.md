@@ -1,7 +1,7 @@
 Joomlatools Console - Example Plugin
 ====================================
 
-This is an example plugin for use with the [Joomlatools Console](https://github.com/joomlatools/joomlatools-console).
+This is an example plugin for use with the [Joomlatools Console].
 
 The plugin adds a `site:backup` command which you can use to
 quickly create a database dump and tar file of any installed Joomla site.
@@ -57,3 +57,5 @@ Keep track of development and community news.
 * Join [joomlatools/dev on Gitter](http://gitter.im/joomlatools/dev)
 * Read the [Joomlatools Developer Blog](http://developer.joomlatools.com/blog/)
 * Subscribe to the [Joomlatools Developer Newsletter](http://developer.joomlatools.com/newsletter)
+
+ [Joomlatools Console]: https://www.joomlatools.com/developer/tools/console/
